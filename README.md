@@ -1,2 +1,2 @@
-# PRO-C156-Teacher-Ref
-Model required: Use the models used in the previous class.
+# simulacion-de-vuelo-virtual
+Modelo requerido: Usa los modelos utulizados en la clase anterior.
